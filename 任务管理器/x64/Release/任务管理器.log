@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  CleanDlg.cpp
+  FileDlg.cpp
+FileDlg.cpp(117): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+FileDlg.cpp(117): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  HeapDlg.cpp
+  ModuleDlg.cpp
+  ProcessDLG.cpp
+ProcessDLG.cpp(115): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+ProcessDLG.cpp(115): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  RscDlg.cpp
+  ThreadDlg.cpp
+ThreadDlg.cpp(118): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+ThreadDlg.cpp(118): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+ThreadDlg.cpp(145): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+ThreadDlg.cpp(145): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+ThreadDlg.cpp(172): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+ThreadDlg.cpp(172): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  WndDlg.cpp
+WndDlg.cpp(44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  任务管理器.cpp
+  任务管理器Dlg.cpp
+  正在生成代码
+  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  任务管理器.vcxproj -> D:\c代码\MFCApplication1\x64\Release\任务管理器.exe
+  任务管理器.vcxproj -> D:\c代码\MFCApplication1\x64\Release\任务管理器.pdb (Full PDB)

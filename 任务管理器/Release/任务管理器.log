@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  CleanDlg.cpp
+  FileDlg.cpp
+  HeapDlg.cpp
+  ModuleDlg.cpp
+  ProcessDLG.cpp
+  RscDlg.cpp
+  ThreadDlg.cpp
+  WndDlg.cpp
+  任务管理器.cpp
+  任务管理器Dlg.cpp
+  正在生成代码
+  347 of 348 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    34 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  任务管理器.vcxproj -> D:\MyCode\MFCApplication1\Release\任务管理器.exe
+  任务管理器.vcxproj -> D:\MyCode\MFCApplication1\Release\任务管理器.pdb (Full PDB)

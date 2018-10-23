@@ -1,0 +1,26 @@
+﻿  任务管理器Dlg.cpp
+  RscDlg.cpp
+  ModuleDlg.cpp
+  正在生成代码...
+  正在编译...
+  任务管理器.cpp
+  WndDlg.cpp
+d:\c代码\mfcapplication1\任务管理器\wnddlg.cpp(44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadDlg.cpp
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(118): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(118): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(145): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(145): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(172): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+d:\c代码\mfcapplication1\任务管理器\threaddlg.cpp(172): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  ProcessDLG.cpp
+d:\c代码\mfcapplication1\任务管理器\processdlg.cpp(115): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+d:\c代码\mfcapplication1\任务管理器\processdlg.cpp(115): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  HeapDlg.cpp
+  FileDlg.cpp
+d:\c代码\mfcapplication1\任务管理器\filedlg.cpp(117): warning C4311: “类型转换”: 从“POSITION”到“int”的指针截断
+d:\c代码\mfcapplication1\任务管理器\filedlg.cpp(117): warning C4302: “类型转换”: 从“POSITION”到“int”截断
+  CleanDlg.cpp
+  正在生成代码...
+  任务管理器.vcxproj -> D:\c代码\MFCApplication1\x64\Debug\任务管理器.exe
+  任务管理器.vcxproj -> D:\c代码\MFCApplication1\x64\Debug\任务管理器.pdb (Partial PDB)
